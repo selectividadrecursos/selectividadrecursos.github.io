@@ -1,2 +1,2 @@
 # selectividadrecursos.github.io
-Recopilación de vídeos complementarios para mayores comprensión y preparación del temario de selectividad.
+Recopilación de recursos para mayor comprensión y preparación para las asignaturas comunes atodas las ramas de selectividad.
